@@ -6,7 +6,7 @@ All this will be done through a game with seven different levels to pass, each s
 <h2> How Scrubby was Built </h2>
 <p> Handpose by mediapipe and ml5 neural network were utilised in order to achieve high accuracy in tracking a user’s hand and finger movements.</p>
 
-Videos of the 7 different handwashing steps was captured and fed into the hand pose model to generate a skeletal output of the hands. These captured video data (63 points on the hands) are collected, normalized (to allow the model to recognise variations in hand sizes) and fed into a Scrubby’s neural network. The model was trained for 1000 epochs till an error rate of ~0.0001 before deploying it for use in the app. 
+Videos of the 7 different handwashing steps was captured and fed into the hand pose model to generate a skeletal output of the hands. These captured video data (63 points on the hands) are collected, normalized (to allow the model to recognise variations in hand sizes) and fed into a Scrubby’s neural network. The model was trained for 1000 epochs till an error rate of ~0.0001 before deploying it for use in the app.
 
 As a result, 3 separate p5js sketch files had to be drawn up to allow us to fully create Scrubby. 
 <ul>
@@ -21,4 +21,5 @@ As a result, 3 separate p5js sketch files had to be drawn up to allow us to full
   <img src="images/homescreen.jpg" alt="home" width="250">
   <img src="images/hand1.jpg" alt="hand1" width="250"> 
   <img src="images/hand2.jpg" alt="hand2" width="250">
+  In the final version, bacterias are superimposed onto the users hands for a visual feedback.
 </p>
