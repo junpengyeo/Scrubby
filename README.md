@@ -7,7 +7,7 @@ All this will be done through a game with seven different levels to pass, each s
 
 <div class="row">
   <div class="column">
-    <img src="images/homescreen.jpg" alt="home" style="width:50%">
+    <img src="images/homescreen.jpg" alt="home" style="width:10%">
   </div>
   <div class="column">
     <img src="images/hand1.jpg" alt="hand1" style="width:50%">
