@@ -7,12 +7,12 @@ All this will be done through a game with seven different levels to pass, each s
 
 <div class="row">
   <div class="column">
-    <img src="images/homescreen.jpg" alt="home" width="100">
+    <img src="images/homescreen.jpg" alt="home" width="300">
   </div>
   <div class="column">
-    <img src="images/hand1.jpg" alt="hand1" width="100">
+    <img src="images/hand1.jpg" alt="hand1" width="300">
   </div>
   <div class="column">
-    <img src="images/hand2.jpg" alt="hand2" width="100">
+    <img src="images/hand2.jpg" alt="hand2" width="300">
   </div>
 </div>
