@@ -21,5 +21,5 @@ As a result, 3 separate p5js sketch files had to be drawn up to allow us to full
   <img src="images/homescreen.jpg" alt="home" width="250">
   <img src="images/hand1.jpg" alt="hand1" width="250"> 
   <img src="images/hand2.jpg" alt="hand2" width="250">
-  In the final version, bacterias are superimposed onto the users hands for a visual feedback.
+  <p>In the final version, bacterias are superimposed onto the users hands for a visual feedback.</p>
 </p>
