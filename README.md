@@ -3,29 +3,6 @@ Scrubby is an educational tool to teach children how to wash their hands well, a
 
 All this will be done through a game with seven different levels to pass, each step allowing you to have progress in your level. A progress indicator will be present, corresponding to the steps. For instance, after completing the first step, the progress indicator will indicate so and you can move on to step two, in each circle, there will be graphics illustrated to prompt the kids on which action they should be completing. 
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
 <h2>Scrubby Interface</h2>
 
 <div class="row">
@@ -39,6 +16,3 @@ All this will be done through a game with seven different levels to pass, each s
     <img src="images/hand2.jpg" alt="hand2" style="width:100%">
   </div>
 </div>
-
-</body>
-</html>
