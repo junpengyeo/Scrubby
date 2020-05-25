@@ -5,7 +5,14 @@ All this will be done through a game with seven different levels to pass, each s
 
 <h2>Scrubby Interface</h2>
 <p float="left">
-    <img src="images/homescreen.jpg" alt="home" width="250"> 
+<figure>
+  <img src="images/homepage.jpg" alt="home" width="250">
+  <figcaption>User Test at rehabilitation center</figcaption>
+</figure>
     <img src="images/hand1.jpg" alt="hand1" width="250"> 
     <img src="images/hand2.jpg" alt="hand2" width="250">
 </p>
+<figure>
+  <figcaption><b>User Test at rehabilitation center</b></figcaption>
+  <img src="images/elderly-test.JPG" width="500">
+</figure>
